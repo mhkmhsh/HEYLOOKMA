@@ -1,8 +1,8 @@
 .bg-hero-image{
-    background-image: url('https://picsum.photos/200/300');
+    background-image:'images/alexwall.jpg';
 background-position: center center ;
 background-size: cover;
 }
 body{
-    background-color: #607173;
+    background-color: #92a694;
 }
