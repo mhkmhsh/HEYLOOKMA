@@ -1,8 +1,8 @@
 .bg-hero-image{
-    background-image:'images/alexwall.jpg';
+    background-image:url('images/alexwall.jpg');
 background-position: center center ;
 background-size: cover;
 }
 body{
-    background-color: #92a694;
+    background-color: #aa5218;
 }
