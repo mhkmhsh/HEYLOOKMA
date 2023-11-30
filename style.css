@@ -8,6 +8,7 @@ body{
     font-family: 'Vidaloka', serif;
     font-size: large;
     font-weight: bold;
+ overflow-x: hidden;
 }
 
 #car1{
