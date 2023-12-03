@@ -4,13 +4,13 @@ body{
     font-size: large;
     font-weight: bold;
     color: rgb(216, 194, 170);
-  overflow-y: hidden;
+  overflow-x: hidden;
   justify-content: center;
 }
 header{
     font-family: 'Playfair Display', serif;
     font-weight: 900;
-    font-size: 80px;
+    font-size: 80px; 
     text-transform: uppercase;
     display: inline-block;
     line-height: 72px;
